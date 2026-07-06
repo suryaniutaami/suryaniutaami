@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets.jpg" alt="yip yip on sky" width="180" />
+</p>
 <h1 align="center">Hi 👋, I'm Suryani Mulia Utami</h1>
 <h3 align="center">🎓 I’m currently a student at ITB majoring in Informatics Engineering</h3>
 
